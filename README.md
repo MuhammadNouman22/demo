@@ -1,3 +1,3 @@
 # demo
 First Repo
-Author Muhammad Nouman
+Author - Muhammad Nouman
